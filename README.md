@@ -1,3 +1,4 @@
 Jayden willis CS Degree
-## IT1025 Course Accomplishments
+ _IT1025 Course Accomplishments_
+
 IT Portfolio For All Classwork
