@@ -21,3 +21,4 @@ Edited Text With New Flower
 [flower.txt](https://github.com/user-attachments/files/17790419/flower.txt)
 
 network diagram
+![NetworkDesign](https://github.com/user-attachments/assets/f77b3e36-b34d-433e-a3a2-7b07cdcd6350)
