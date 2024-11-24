@@ -20,3 +20,4 @@ Python OOP
 Edited Text With New Flower
 [flower.txt](https://github.com/user-attachments/files/17790419/flower.txt)
 
+network diagram
