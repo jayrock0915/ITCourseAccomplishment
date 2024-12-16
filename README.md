@@ -8,7 +8,8 @@ This repository contains a listing  and description of the files i have created 
 
 My Flowchart 
 https://tricemail-my.sharepoint.com/:u:/r/personal/s01144824_acad_tri-c_edu/_layouts/15/Doc.aspx?sourcedoc=%7B745B4C88-DE66-4EEB-AFB6-F59BFA4706CE%7D&file=PasswordLogic.pdf%20-%20Copy.vsdx&action=default&mobileredirect=true
-vizio design
+
+Vizio Design
 [PasswordLogic.pdf.pdf](https://github.com/user-attachments/files/18151033/PasswordLogic.pdf.pdf)
 
 Flower Class Diagram 
